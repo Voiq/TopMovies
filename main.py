@@ -7,7 +7,7 @@ from wtforms.validators import DataRequired
 import requests
 
 MOVIE_DB_SEARCH_URL="https://api.themoviedb.org/3/search/movie"
-MOVIE_DB_API_KEY = "9a6f70f52983a4042262c5337ced3db3"
+MOVIE_DB_API_KEY = "YOUR_API_KEY"
 SELECTED_MOVIE = 'https://api.themoviedb.org/3/movie'
 TMDB_IMAGE_URL = 'https://image.tmdb.org/t/p/w500'
 
